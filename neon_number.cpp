@@ -15,7 +15,7 @@ int main() {
 
     cout << "Output = ";
 
-    if (x == jumlah) {
+    if (a == jumlah) {
         cout << "Angka NEON";
     } 
     else
